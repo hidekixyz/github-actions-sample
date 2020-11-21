@@ -1,2 +1,3 @@
 # github-actions-sample
-sample
+This is sample.
+
